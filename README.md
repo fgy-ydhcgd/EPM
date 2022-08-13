@@ -1,1 +1,1 @@
-This is a preprocessed data set about education process mining.
+This is a preprocessed data set about educational process mining.
